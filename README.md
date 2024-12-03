@@ -1,1 +1,1 @@
-# PIRBFNN-for-modeling-two-phase-mutil-well-Darcy-flow
+Code for "Physics-informed radial basis function neural network for efficiently modeling oil-water two-phase Darcy flow"
